@@ -3,7 +3,7 @@
 ![](/.github/images/SpyWire.gif)
 
 
-Part 1 of Sumo Digital's Introduction to Game Development tutorials based on the Spyder games.
+Part 1 of Sumo Digital's Introduction to Game Development tutorials using Game Maker Studio.
 
 Spyder is ©2020 Sumo Digital Ltd. All rights Reserved.
 
