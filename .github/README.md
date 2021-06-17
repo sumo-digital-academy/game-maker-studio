@@ -3,7 +3,7 @@
 ![](/.github/images/SkyHighSpy.gif)
 
 
-Part 2 of Sumo Digital's Introduction to Game Development tutorials based on the Spyder games.
+Part 2 of Sumo Digital's Introduction to Game Development tutorials using Game Maker Studio.
 
 Spyder is ©2020 Sumo Digital Ltd. All rights Reserved.
 
