@@ -1,6 +1,6 @@
 ![](/.github/images/spy_dare_title.png)
 
-![](/.github/images/SkyDare.gif)
+![](/.github/images/SpyDare.gif)
 
 
 Part 3 of the Introduction to Game Development tutorial series based on the Spyder games by Sumo Digital.
