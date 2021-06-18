@@ -8,3 +8,4 @@ Part 2 of Sumo Digital's Introduction to Game Development tutorials using Game M
 Spyder is ©2020 Sumo Digital Ltd. All rights Reserved.
 
 [![](/.github/images/download.png)](https://github.com/sumo-digital-academy/game-maker-studio/archive/refs/heads/SkyHighSpy.zip)
+[![](/.github/images/video.png)](https://youtu.be/y7wDtdnoeNM)
